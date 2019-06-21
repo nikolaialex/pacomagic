@@ -3,5 +3,9 @@ img {
 }
 
 body {
+  font-family: 'Slabo 27px', sans-serif;
+}
+
+h1 {
   font-family: 'Open Sans', sans-serif;
 }
